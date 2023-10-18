@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git! 5.0主线版本");
         System.out.println("hello git! 6.0主线版本");
         System.out.println("hello git! 6.1支线版本");
+        System.out.println("hello git! 7.0主线版本");
     }
 }
